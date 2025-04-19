@@ -4,10 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Everything+is+possible;Always+learning+new+things)](https://git.io/typing-svg)
 
+## About me
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 🤔 I enjoy exploring new technologies and trying new things.
+- ❤️ Aiming to enjoy coding ,gaming and anime in my remaining life
 
 
 ![](https://github-readme-stats.vercel.app/api?username=AkiNeko11&show_icons=true&theme=transparent)
