@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/AkiNeko11/AkiNeko11/main/NekoGitHubProfile.png
+<img align="right" src="https://raw.githubusercontent.com/AkiNeko11/AkiNeko11/main/NekoGitHubProfile.jpg" width="32%">
 
 ### Hi there 👋,I'm AkiNeko11.
 
