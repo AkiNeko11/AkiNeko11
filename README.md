@@ -1,16 +1,24 @@
-## Hi there 👋
+https://raw.githubusercontent.com/AkiNeko11/AkiNeko11/main/NekoGitHubProfile.png
 
-<!--
-**AkiNeko11/AkiNeko11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋,I'm AkiNeko11.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Everything+is+possible;Always+learning+new+things)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 🤔 I enjoy exploring new technologies and trying new things.
+
+
+![](https://github-readme-stats.vercel.app/api?username=AkiNeko11&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiNeko11)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkiNeko11&theme=react)
+
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/AkiNeko11/count.svg) visitor,Thank You! 
+
+### My Skill Set
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,mysql,md,git,github,visualstudio,vscode,pycharm)](https://skillicons.dev)
+
