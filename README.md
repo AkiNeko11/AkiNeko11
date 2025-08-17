@@ -12,10 +12,12 @@
 - ❤️ Aiming to enjoy coding ,gaming and anime in my remaining life
 
 
-![](https://github-readme-stats.vercel.app/api?username=AkiNeko11&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiNeko11)
+![](https://github-readme-stats.vercel.app/api?username=AkiNeko11&show_icons=true&theme=transparent&count_private=true)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkiNeko11&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiNeko11&count_private=true)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkiNeko11&theme=react&count_private=true)
+
 
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/AkiNeko11/count.svg) visitor,Thank You! 
