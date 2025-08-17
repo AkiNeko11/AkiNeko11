@@ -20,8 +20,6 @@
 
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/AkiNeko11/count.svg) visitor,Thank You! 
-
 ### My Skill Set
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,mysql,md,git,github,visualstudio,vscode,pycharm)](https://skillicons.dev)
