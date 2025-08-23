@@ -22,5 +22,5 @@
 
 ### My Skill Set
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,mysql,md,git,github,visualstudio,vscode,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,mysql,md,git,github,vscode,pycharm,js,netlify,vercel,nodejs,html,docker)](https://skillicons.dev)
 
