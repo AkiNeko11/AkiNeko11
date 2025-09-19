@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/AkiNeko11/AkiNeko11/main/Alice_Kuonji.png" width="32%">
+<img align="right" src="https://raw.githubusercontent.com/AkiNeko11/AkiNeko11/main/altri_pendragon.jpeg" width="32%">
 
 ### Hi there 👋,I'm AkiNeko11.
 
